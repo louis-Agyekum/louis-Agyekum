@@ -1,1 +1,1 @@
-- 👋 Hi, I’m louis-Agyekum and I love data.
+- 👋 Hi, I’m louis-Agyekum and I love Data Science. 
