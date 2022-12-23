@@ -1,1 +1,1 @@
-- 👋 Hi, I’m louis-Agyekum and I love Data Science. 
+- Louis is a skilled Data Scientist/Analyst with years of hands-on experience in many data science and machine learning projects. 
